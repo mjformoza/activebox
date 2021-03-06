@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "mjformoza.github.io/activebox",
+  "homepage": "https://mjformoza.github.io/activebox",
   "scripts": {
     "deploy": "gh-pages -D activebox"
   },
