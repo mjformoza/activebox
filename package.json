@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://mjformoza.github.io/activebox",
+  "homepage": "https://mjformoza.github.io/",
   "scripts": {
-    "deploy": "gh-pages -D activebox"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
